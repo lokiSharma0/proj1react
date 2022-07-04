@@ -26,7 +26,7 @@ function App() {
             }}>Remove</button>
             <button onClick={()=>{
               const data=people.filter((people)=>people.id !==id)
-              
+
             }}>Details</button>
          </div>
           </article>
